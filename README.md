@@ -1,0 +1,3 @@
+- open terminal in your computer 
+- `pip install -r requirements.txt`
+- `python trtest.py` 
